@@ -1,0 +1,6 @@
+com\example\CompletableFutureHandsOn\CompletableFutureHandsOnApplication.class
+com\example\CompletableFutureHandsOn\combine\CombinationOfACompletableFuture.class
+com\example\CompletableFutureHandsOn\creation\CreationOfACompletableFuture.class
+com\example\CompletableFutureHandsOn\service\UserService.class
+com\example\CompletableFutureHandsOn\transform\TransformationOfACompletableFututre.class
+com\example\CompletableFutureHandsOn\dto\User.class
